@@ -2,8 +2,9 @@
 
 ## Introdução ao Codespaces
 
-[![Abrir nova instância no GitHub Codespaces](./docs/badgeAbrir.svg)](https://codespaces.new/Deuterion/Mazes)
-[![Continuar instância no GitHub Codespaces](./docs/badgeContinuar.svg)](https://codespaces.new/Deuterion/Mazes?quickstart=1)
+[![Abrir nova instância no GitHub Codespaces](./docs/badgeAbrir.svg)](https://codespaces.new/Deuterion/Mazes)<br />
+[![Continuar instância no GitHub Codespaces](./docs/badgeContinuar.svg)](https://codespaces.new/Deuterion/Mazes?quickstart=1)<br />
+[![Abrir a documentação da classe Mazes](./docs/badgeAbrirDoc.svg)](https://deuterion.github.io/Mazes/package-summary.html)
 
 ## Introdução ao VS Code
 
@@ -27,8 +28,9 @@ O espaço de trabalho contém as seguintes pastas por padrão, onde:
 
 ## Getting Starded Codespaces
 
-[![Open new instance in GitHub Codespaces](./docs/badgeOpen.svg)](https://codespaces.new/Deuterion/Mazes)
-[![Resume instance in GitHub Codespaces](./docs/badgeResume.svg)](https://codespaces.new/Deuterion/Mazes?quickstart=1)
+[![Open new instance in GitHub Codespaces](./docs/badgeOpen.svg)](https://codespaces.new/Deuterion/Mazes)<br />
+[![Resume instance in GitHub Codespaces](./docs/badgeResume.svg)](https://codespaces.new/Deuterion/Mazes?quickstart=1)<br />
+[![Open the Mazes class documentation](./docs/badgeOpenDoc.svg)](https://deuterion.github.io/Mazes/package-summary.html)
 
 
 ## Getting Started VS Code
